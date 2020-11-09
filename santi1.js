@@ -1,1 +1,1 @@
-"los lunes no son buenos dias";
+let variable = "los lunes no son buenos dias";

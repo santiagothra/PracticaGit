@@ -4,7 +4,7 @@ let persona = {
     edad: 26
 }
 let persona = {
-    nombre: santiago,
-    apellido: ramirez,
+    nombre: "santiago",
+    apellido: "ramirez",
     edad: 22
 }

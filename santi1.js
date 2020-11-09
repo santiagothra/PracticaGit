@@ -3,3 +3,8 @@ let persona = {
     apellido: ramirez,
     edad: 22
 }
+let persona = {
+    nombre: "sebastian",
+    apellido: "krawiec",
+    edad: "26"
+}
